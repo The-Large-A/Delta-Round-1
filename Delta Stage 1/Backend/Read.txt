@@ -1,0 +1,6 @@
+What I Did:
+1) Tic tac toe grid
+2) Translator
+3) First 3 parts of API Stuff [1 and 2 are basically the same thing]
+
+
